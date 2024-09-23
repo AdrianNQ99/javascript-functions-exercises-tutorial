@@ -1,7 +1,5 @@
 // Define the function called "multi" that expects 2 parameters:
-function multi(n1,n2){
-    return (n1*n2)
-}
+
 
 // Don't edit anything below this line
 let returnValue = multi(7,53812212);
